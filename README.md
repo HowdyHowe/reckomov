@@ -1,3 +1,4 @@
-# reckomov
+# Reckomov
 
-A new Flutter project.
+Implementasi The Movie DataBase(TMDB) API untuk sistem informasi film berbasis mobile
+
